@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunDotNet", "FunDotNet\FunDotNet.csproj", "{4DB6B7CF-2538-4DB1-8B60-C64B98D5B5CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snake", "Snake\Snake.csproj", "{4BC0146C-27F9-4FF4-BF41-43D58BB7274E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PingPong", "PingPong\PingPong.csproj", "{1E1A3F33-E45E-4A8F-A500-18408ABF3769}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DB6B7CF-2538-4DB1-8B60-C64B98D5B5CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DB6B7CF-2538-4DB1-8B60-C64B98D5B5CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DB6B7CF-2538-4DB1-8B60-C64B98D5B5CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DB6B7CF-2538-4DB1-8B60-C64B98D5B5CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BC0146C-27F9-4FF4-BF41-43D58BB7274E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BC0146C-27F9-4FF4-BF41-43D58BB7274E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BC0146C-27F9-4FF4-BF41-43D58BB7274E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BC0146C-27F9-4FF4-BF41-43D58BB7274E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E1A3F33-E45E-4A8F-A500-18408ABF3769}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E1A3F33-E45E-4A8F-A500-18408ABF3769}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E1A3F33-E45E-4A8F-A500-18408ABF3769}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E1A3F33-E45E-4A8F-A500-18408ABF3769}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84107078-02B7-4FBF-811B-EFF7B9518E6A}
+	EndGlobalSection
+EndGlobal
